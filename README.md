@@ -87,11 +87,3 @@ Via Git, en clonant ce dépôt ;
 ## Authors
 
 * **Nicolas Rivault** - [rivaultn](https://github.com/rivaultn)
-
-
-
-
-
-
-
-Ce projet à été créé avec 
