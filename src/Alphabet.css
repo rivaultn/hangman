@@ -1,0 +1,10 @@
+.alphabet > div{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-color: #0077C6;
+    margin-right: 10px;
+    margin-top: 10px;
+    line-height: 40px;
+    text-align: center;
+}

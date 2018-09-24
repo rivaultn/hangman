@@ -1,0 +1,5 @@
+.hangman > .guesses {
+  font-size: 1em;
+  margin: 0.2em;
+  text-align: center;
+}
