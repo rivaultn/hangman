@@ -64,7 +64,7 @@ un Set (ES2015), mais vous pouvez en faire un simple tableau en remplaçant le.h
 ## Installation
 ### 1. Récupérer le code
 
-Via Git, en clonant ce dépôt ;
+Via Git, en clonant ce dépôt (`git clone` [hangman](https://github.com/rivaultn/hangman.git)
 
 ### 2. Installer les dépendances
 
