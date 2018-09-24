@@ -46,9 +46,6 @@ partie… sans avoir à recharger la page !
 * Le besoin est assez simple pour tout faire dans  App.js (et styler avec  App.css ), mais si vous tenez à découper en 
 sous-composants (par exemple, pour le « clavier » de 26 touches), libre à vous.
 * Le déroulement de la partie se base naturellement sur une évolution de l’état local du composant<App/>.
-* Afin de vous permettre de vous concentrer sur React, vous trouverez ci-dessous une petite fonction utile qui construit 
-le masque affiché à partir du texte à deviner et de la série des lettres déjà testées. Cette dernière est supposée être 
-un Set (ES2015), mais vous pouvez en faire un simple tableau en remplaçant le.has() par un.includes().
 
 ## Prérequis
 
